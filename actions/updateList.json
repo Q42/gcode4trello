@@ -1,0 +1,108 @@
+{
+    "model": {
+        "id": "61d8a25801a4395a4ec416c9",
+        "name": "Print Queue (@home)",
+        "desc": "",
+        "descData": null,
+        "closed": false,
+        "idOrganization": "61d8a1f6a410d6195916fa9b",
+        "idEnterprise": null,
+        "pinned": false,
+        "url": "https://trello.com/b/YIRWWl4S/print-queue-home",
+        "shortUrl": "https://trello.com/b/YIRWWl4S",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "hiddenPluginBoardButtons": [],
+            "background": "red",
+            "backgroundColor": "#B04632",
+            "backgroundImage": null,
+            "backgroundImageScaled": null,
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#B04632",
+            "backgroundTopColor": "#B04632",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "labelNames": {
+            "green": "finished",
+            "yellow": "",
+            "orange": "",
+            "red": "clear bed then move to done",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": "black"
+        }
+    },
+    "action": {
+        "id": "62101ababab48e5612f047db",
+        "idMemberCreator": "61d8a1dfcc998937c6fe1d17",
+        "data": {
+            "list": {
+                "name": "Printing Voron [2h36m]",
+                "id": "61faa91927e63e64d4dd4c28"
+            },
+            "old": {
+                "name": "Printing Voron [1h18m]"
+            },
+            "board": {
+                "id": "61d8a25801a4395a4ec416c9",
+                "name": "Print Queue (@home)",
+                "shortLink": "YIRWWl4S"
+            }
+        },
+        "appCreator": {
+            "id": "61d8a2a3fc8a197bae2cb7d0"
+        },
+        "type": "updateList",
+        "date": "2022-02-18T22:16:26.882Z",
+        "limits": {},
+        "display": {
+            "translationKey": "action_renamed_list",
+            "entities": {
+                "list": {
+                    "type": "list",
+                    "id": "61faa91927e63e64d4dd4c28",
+                    "text": "Printing Voron [2h36m]"
+                },
+                "name": {
+                    "type": "text",
+                    "text": "Printing Voron [1h18m]"
+                },
+                "memberCreator": {
+                    "type": "member",
+                    "id": "61d8a1dfcc998937c6fe1d17",
+                    "username": "printq3",
+                    "text": "PrintQ"
+                }
+            }
+        },
+        "memberCreator": {
+            "id": "61d8a1dfcc998937c6fe1d17",
+            "activityBlocked": false,
+            "avatarHash": "39c4f810fac0409701995da27862d854",
+            "avatarUrl": "https://trello-members.s3.amazonaws.com/61d8a1dfcc998937c6fe1d17/39c4f810fac0409701995da27862d854",
+            "fullName": "PrintQ",
+            "idMemberReferrer": null,
+            "initials": "P",
+            "nonPublic": {},
+            "nonPublicAvailable": true,
+            "username": "printq3"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "model": {
+        "id": "61d8a25801a4395a4ec416c9",
+        "name": "Print Queue (@home)",
+        "desc": "",
+        "descData": null,
+        "closed": false,
+        "idOrganization": "61d8a1f6a410d6195916fa9b",
+        "idEnterprise": null,
+        "pinned": false,
+        "url": "https://trello.com/b/YIRWWl4S/print-queue-home",
+        "shortUrl": "https://trello.com/b/YIRWWl4S",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "hiddenPluginBoardButtons": [],
+            "background": "red",
+            "backgroundColor": "#B04632",
+            "backgroundImage": null,
+            "backgroundImageScaled": null,
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#B04632",
+            "backgroundTopColor": "#B04632",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "labelNames": {
+            "green": "finished",
+            "yellow": "",
+            "orange": "",
+            "red": "clear bed then move to done",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": "black"
+        }
+    },
+    "action": {
+        "id": "62101293679f531cd1d6f5f5",
+        "idMemberCreator": "4e83393e5ff8ecd28f9be03c",
+        "data": {
+            "attachment": {
+                "id": "62101293679f531cd1d6f5e1",
+                "name": "image (4).png",
+                "url": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/download/image_(4).png",
+                "previewUrl": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/previews/preview/download/image_%284%29.png",
+                "previewUrl2x": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/previews/preview2x/download/image_%284%29.png"
+            },
+            "card": {
+                "id": "62101077426fbd31e9706eee",
+                "name": "test 9",
+                "idShort": 54,
+                "shortLink": "Uemc8f5u"
+            },
+            "list": {
+                "id": "61e08a91ef820e360480a700",
+                "name": "Inbox [1h18m]"
+            },
+            "board": {
+                "id": "61d8a25801a4395a4ec416c9",
+                "name": "Print Queue (@home)",
+                "shortLink": "YIRWWl4S"
+            }
+        },
+        "appCreator": null,
+        "type": "addAttachmentToCard",
+        "date": "2022-02-18T21:41:39.959Z",
+        "limits": {},
+        "display": {
+            "translationKey": "action_add_attachment_to_card",
+            "entities": {
+                "attachment": {
+                    "type": "attachment",
+                    "id": "62101293679f531cd1d6f5e1",
+                    "previewUrl": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/previews/preview/download/image_%284%29.png",
+                    "previewUrl2x": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/previews/preview2x/download/image_%284%29.png",
+                    "link": true,
+                    "text": "image (4).png",
+                    "url": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/download/image_(4).png"
+                },
+                "attachmentPreview": {
+                    "type": "attachmentPreview",
+                    "id": "62101293679f531cd1d6f5e1",
+                    "previewUrl": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/previews/preview/download/image_%284%29.png",
+                    "previewUrl2x": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/previews/preview2x/download/image_%284%29.png",
+                    "originalUrl": "https://trello.com/1/cards/62101077426fbd31e9706eee/attachments/62101293679f531cd1d6f5e1/download/image_(4).png"
+                },
+                "card": {
+                    "type": "card",
+                    "id": "62101077426fbd31e9706eee",
+                    "shortLink": "Uemc8f5u",
+                    "text": "test 9"
+                },
+                "memberCreator": {
+                    "type": "member",
+                    "id": "4e83393e5ff8ecd28f9be03c",
+                    "username": "remcoveldkamp",
+                    "text": "Remco"
+                }
+            }
+        },
+        "memberCreator": {
+            "id": "4e83393e5ff8ecd28f9be03c",
+            "activityBlocked": false,
+            "avatarHash": null,
+            "avatarUrl": null,
+            "fullName": "Remco",
+            "idMemberReferrer": null,
+            "initials": "R",
+            "nonPublic": {},
+            "nonPublicAvailable": true,
+            "username": "remcoveldkamp"
+        }
+    }
+}
